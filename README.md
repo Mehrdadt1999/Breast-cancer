@@ -1,3 +1,3 @@
 # Breast-cacer
-Breast cancer detection.\n
+Breast cancer detection.
 We use the breast cancer dataset in datasets of sklearn.
